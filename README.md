@@ -83,7 +83,7 @@ Example UI screenshots (from private testing):
 
 | Upload Screen | Segmentation Output |
 |----------------|---------------------|
-| ![Upload Screenshot](screenshots/upload.png) | ![Output Screenshot](screenshots/output.png) |
+| ![Upload Screenshot](https://github.com/user-attachments/assets/5743d232-9243-4827-937a-afe7038782c9) | ![Output Screenshot](https://github.com/user-attachments/assets/16a9a44a-654f-4883-be45-8b048786f970) |
 
 *(Screenshots are representative. The actual Streamlit app is locally hosted due to privacy constraints.)*
 
@@ -139,9 +139,11 @@ Special thanks to publicly available ultrasound datasets and open-source tools s
 ### Author
 **Puneeth M**  
 Deep Learning and Computer Vision Enthusiast  
-📧 [Email Placeholder]  
-🌐 [LinkedIn Profile Placeholder]  
+📧 [thepuneethmail@gamil.com  
+🌐 [https://www.linkedin.com/in/puneeth-m-5b4345238/]  
 
 ---
 
 > _Note: This repository contains only the documentation and results of the project. The dataset and trained model are not publicly shared due to confidentiality and ethical considerations._
+![upload](https://github.com/user-attachments/assets/5743d232-9243-4827-937a-afe7038782c9)
+![output](https://github.com/user-attachments/assets/16a9a44a-654f-4883-be45-8b048786f970)
