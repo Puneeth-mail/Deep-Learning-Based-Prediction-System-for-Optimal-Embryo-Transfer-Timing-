@@ -1,4 +1,4 @@
-# Deep-Learning-Based-Prediction-System-for-Optimal-Embryo-Transfer-Timing-
+# Deep-Learning-Based-Prediction-System-for-Optimal-Embryo-Transfer-Timing
 
 ### Overview
 This project presents a deep learning–based approach for **endometrial segmentation and receptivity prediction** from ultrasound images.  
